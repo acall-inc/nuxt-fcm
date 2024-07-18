@@ -10,7 +10,7 @@ import {
 } from '@nuxt/kit'
 import { defu } from 'defu'
 import { name, version } from '../package.json'
-import type { PublicConfig, PrivateConfig } from './runtime/types'
+import type { PublicConfig, PrivateConfig } from '../'
 
 export interface ModuleOptions extends PrivateConfig, PublicConfig {}
 

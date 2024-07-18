@@ -1,5 +1,5 @@
 import { createError, type H3Event } from 'h3'
-import type { FcmContext, Entity, Permission } from '../../types'
+import type { FcmContext, Entity, Permission } from '../../../../'
 
 export function setPermissions(
   event: H3Event,

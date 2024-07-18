@@ -1,5 +1,5 @@
 import { setResponseHeader, defineEventHandler } from 'h3'
-import type { PublicConfig } from '../../types'
+import type { PublicConfig } from '../../../../'
 import { useRuntimeConfig } from '#imports'
 
 export default defineEventHandler((event) => {

@@ -1,5 +1,5 @@
 import { initializeApp, cert } from 'firebase-admin/app'
-import type { PrivateConfig } from '../../types'
+import type { PrivateConfig } from '../../../../'
 import { useRuntimeConfig } from '#imports'
 
 const privateConfig = useRuntimeConfig().fcm as PrivateConfig
