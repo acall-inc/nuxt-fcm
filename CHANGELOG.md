@@ -1,6 +1,10 @@
 # Changelog
 
 
+## v0.2.11
+
+[compare changes](https://github.com/becem-gharbi/nuxt-fcm/compare/test...v0.2.11)
+
 ## v0.2.10
 
 [compare changes](https://github.com/becem-gharbi/nuxt-fcm/compare/v0.2.9...v0.2.10)
